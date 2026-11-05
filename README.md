@@ -1,6 +1,6 @@
 ﻿# Poke Atlas
 
-Um catálogo Pokemon simples para consultar informaçõees pelo nome ou número da Pokedex. Cada ficha mostra imagem, tipos, altura, peso e alguns atributos bÃ¡sicos.
+Um catálogo Pokemon simples para consultar informaçõees pelo nome ou número da Pokedex. Cada ficha mostra imagem, tipos, altura, peso e alguns atributos básicos.
 
 ## Executar
 
